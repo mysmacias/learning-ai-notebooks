@@ -8,3 +8,7 @@ Contains only non-gated runnable notebooks (chapter code examples, lab student
 notebooks, and interactive explainers) so learners can open them in Google Colab
 in one click from the learning site. Assessments and instructor solutions are
 never published here.
+
+`notebooks/` holds the runnable notebooks; `data/` holds the public example
+datasets the lab notebooks download on first run (a setup cell is prepended to
+those notebooks automatically).
